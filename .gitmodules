@@ -1,9 +1,18 @@
-[submodule "study-backend/ballcat"]
-	path = study-backend/ballcat
+[submodule "ballcat"]
+	path = ballcat
 	url = https://gitee.com/ballcat-projects/ballcat.git
-[submodule "study-frontend/ballcat-ui-vue"]
-	path = study-frontend/ballcat-ui-vue
-	url = https://gitee.com/ballcat-projects/ballcat-ui-vue.git
-[submodule "study-frontend/ballcat-ui-react"]
-	path = study-frontend/ballcat-ui-react
+[submodule "ballcat-ui-react"]
+	path = ballcat-ui-react
 	url = https://gitee.com/ballcat-projects/ballcat-ui-react.git
+[submodule "ballcat-ui-vue"]
+	path = ballcat-ui-vue
+	url = https://gitee.com/ballcat-projects/ballcat-ui-vue.git
+[submodule "ruoyi-vue-pro"]
+	path = ruoyi-vue-pro
+	url = https://gitee.com/zhijiantianya/ruoyi-vue-pro.git
+[submodule "SpringBlade"]
+	path = SpringBlade
+	url = https://gitee.com/smallc/SpringBlade.git
+[submodule "blade-tool"]
+	path = blade-tool
+	url = https://gitee.com/smallc/blade-tool.git
