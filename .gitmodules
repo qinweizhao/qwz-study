@@ -22,3 +22,9 @@
 [submodule "Saber"]
 	path = Saber
 	url = https://gitee.com/smallc/Saber.git
+[submodule "halo"]
+	path = halo
+	url = https://gitee.com/halo-dev/halo.git
+[submodule "halo-admin"]
+	path = halo-admin
+	url = https://gitee.com/halo-dev/halo-admin.git
