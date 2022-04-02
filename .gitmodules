@@ -1,0 +1,9 @@
+[submodule "study-backend/ballcat"]
+	path = study-backend/ballcat
+	url = https://gitee.com/ballcat-projects/ballcat.git
+[submodule "study-frontend/ballcat-ui-vue"]
+	path = study-frontend/ballcat-ui-vue
+	url = https://gitee.com/ballcat-projects/ballcat-ui-vue.git
+[submodule "study-frontend/ballcat-ui-react"]
+	path = study-frontend/ballcat-ui-react
+	url = https://gitee.com/ballcat-projects/ballcat-ui-react.git
