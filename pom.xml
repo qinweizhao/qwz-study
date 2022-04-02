@@ -8,9 +8,10 @@
     <artifactId>qwz-study</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+
+
     <modules>
-        <module>study-frontend</module>
-        <module>study-resource</module>
+        <module>ballcat</module>
     </modules>
 
 
