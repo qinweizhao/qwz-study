@@ -16,3 +16,9 @@
 [submodule "blade-tool"]
 	path = blade-tool
 	url = https://gitee.com/smallc/blade-tool.git
+[submodule "Sword"]
+	path = Sword
+	url = https://gitee.com/smallc/Sword.git
+[submodule "Saber"]
+	path = Saber
+	url = https://gitee.com/smallc/Saber.git
