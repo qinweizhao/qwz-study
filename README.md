@@ -6,4 +6,5 @@
 | SpringBlade     | 【Saber】、【Sword】                     | 【SpringBlade】 | 【blade-tool】 |
 | ruoyi-vue-pro             |【ruoyi-vue-pro】|【ruoyi-vue-pro】||
 | halo |【halo-admin】|【halo】||
+| mall |【mall-admin-web】|mall||
 
