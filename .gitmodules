@@ -28,3 +28,9 @@
 [submodule "halo-admin"]
 	path = halo-admin
 	url = https://gitee.com/halo-dev/halo-admin.git
+[submodule "mall"]
+	path = mall
+	url = https://gitee.com/macrozheng/mall.git
+[submodule "mall-admin-web"]
+	path = mall-admin-web
+	url = https://gitee.com/macrozheng/mall-admin-web.git
