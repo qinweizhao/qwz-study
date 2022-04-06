@@ -34,3 +34,6 @@
 [submodule "mall-admin-web"]
 	path = mall-admin-web
 	url = https://gitee.com/macrozheng/mall-admin-web.git
+[submodule "mall4cloud"]
+	path = mall4cloud
+	url = https://gitee.com/gz-yami/mall4cloud.git
