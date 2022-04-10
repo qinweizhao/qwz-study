@@ -37,3 +37,12 @@
 [submodule "mall4cloud"]
 	path = mall4cloud
 	url = https://gitee.com/gz-yami/mall4cloud.git
+[submodule "RuoYi-Vue"]
+	path = RuoYi-Vue
+	url = https://gitee.com/y_project/RuoYi-Vue.git
+[submodule "COLA"]
+	path = COLA
+	url = https://github.com/alibaba/COLA.git
+[submodule "RuoYi-Cloud"]
+	path = RuoYi-Cloud
+	url = https://gitee.com/y_project/RuoYi-Cloud.git
