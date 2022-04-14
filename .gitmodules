@@ -46,3 +46,6 @@
 [submodule "RuoYi-Cloud"]
 	path = RuoYi-Cloud
 	url = https://gitee.com/y_project/RuoYi-Cloud.git
+[submodule "hutool"]
+	path = hutool
+	url = https://gitee.com/dromara/hutool.git

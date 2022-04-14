@@ -22,6 +22,9 @@
 <!--        <module>SpringBlade</module>-->
 
         <!-- halo <Gradle>-->
+
+
+        <module>RuoYi-Cloud</module>
     </modules>
 
 
