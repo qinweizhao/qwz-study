@@ -49,3 +49,6 @@
 [submodule "hutool"]
 	path = hutool
 	url = https://gitee.com/dromara/hutool.git
+[submodule "pig"]
+	path = pig
+	url = https://gitee.com/log4j/pig.git
