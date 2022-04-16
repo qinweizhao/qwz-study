@@ -13,6 +13,7 @@
     <modules>
         <!-- ballcat -->
         <module>ballcat</module>
+        <module>gulimall</module>
 
         <module>pig</module>
         <!-- yudao -->
