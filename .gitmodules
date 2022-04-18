@@ -52,3 +52,6 @@
 [submodule "pig"]
 	path = pig
 	url = https://gitee.com/log4j/pig.git
+[submodule "lamp-util"]
+	path = lamp-util
+	url = https://github.com/zuihou/lamp-util.git
