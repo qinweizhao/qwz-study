@@ -12,10 +12,11 @@
 
     <modules>
         <!-- ballcat -->
-        <module>ballcat</module>
-        <module>gulimall</module>
+<!--        <module>ballcat</module>-->
+<!--        <module>gulimall</module>-->
 
-        <module>pig</module>
+        <module>mall4cloud</module>
+<!--        <module>pig</module>-->
         <!-- yudao -->
 <!--        <module>ruoyi-vue-pro</module>-->
 
