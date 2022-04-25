@@ -15,7 +15,8 @@
 <!--        <module>ballcat</module>-->
 <!--        <module>gulimall</module>-->
 
-        <module>mall4cloud</module>
+<!--        <module>mall4cloud</module>-->
+<!--        <module>RuoYi-Vue</module>-->
 <!--        <module>pig</module>-->
         <!-- yudao -->
 <!--        <module>ruoyi-vue-pro</module>-->
@@ -27,7 +28,7 @@
         <!-- halo <Gradle>-->
 
 
-<!--        <module>RuoYi-Cloud</module>-->
+        <module>RuoYi-Cloud</module>
 
 <!--        <module>hutool</module>-->
     </modules>
