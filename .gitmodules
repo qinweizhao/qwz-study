@@ -55,3 +55,6 @@
 [submodule "lamp-util"]
 	path = lamp-util
 	url = https://github.com/zuihou/lamp-util.git
+[submodule "mybatis-plus"]
+	path = mybatis-plus
+	url = https://gitee.com/baomidou/mybatis-plus.git
