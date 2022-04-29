@@ -58,3 +58,6 @@
 [submodule "mybatis-plus"]
 	path = mybatis-plus
 	url = https://gitee.com/baomidou/mybatis-plus.git
+[submodule "gmall"]
+	path = gmall
+	url = https://gitee.com/itxinfei/gmall.git
