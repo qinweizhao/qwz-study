@@ -28,7 +28,7 @@
         <!-- halo <Gradle>-->
 
 
-        <module>RuoYi-Cloud</module>
+<!--        <module>RuoYi-Cloud</module>-->
 
 <!--        <module>hutool</module>-->
     </modules>
