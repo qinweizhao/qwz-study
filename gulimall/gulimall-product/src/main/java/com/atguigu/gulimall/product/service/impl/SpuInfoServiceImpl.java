@@ -87,7 +87,8 @@ public class SpuInfoServiceImpl extends ServiceImpl<SpuInfoDao, SpuInfoEntity> i
      * @param vo
      */
     //Seata AT 分布式事务
-    @Transactional
+    @Transactional(rollbackFor = Exception.class
+    )
     @Override
     public void saveSpuInfo(SpuSaveVo vo) {
 

@@ -61,3 +61,6 @@
 [submodule "gmall"]
 	path = gmall
 	url = https://gitee.com/itxinfei/gmall.git
+[submodule "renren-fast"]
+	path = renren-fast
+	url = git@gitee.com:renrenio/renren-fast.git

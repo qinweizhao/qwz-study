@@ -31,6 +31,7 @@
 <!--        <module>RuoYi-Cloud</module>-->
 
 <!--        <module>hutool</module>-->
+        <module>gmall</module>
     </modules>
 
 
