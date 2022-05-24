@@ -111,6 +111,7 @@ public class MallSearchServiceImpl implements MallSearchService {
                 String[] s = attrStr.split("_");
                 String attrId = s[0]; //检索的属性id
                 String[] attrValues = s[1].split(":"); //这个属性的检索用的值
+
                 nestedboolQuery.must(QueryBuilders.termQuery("attrs.attrId", attrId));
                 nestedboolQuery.must(QueryBuilders.termsQuery("attrs.attrValue", attrValues));
                 //每一个必须都得生成一个nested查询

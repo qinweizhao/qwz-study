@@ -268,7 +268,17 @@ public class CategoryServiceImpl extends ServiceImpl<CategoryDao, CategoryEntity
 
     }
 
+
+
+
     public Map<String, List<Catelog2Vo>> getCatalogJsonFromDbWithRedisLock() {
+
+
+
+
+
+
+
 
 
         //1、占分布式锁。去redis占坑

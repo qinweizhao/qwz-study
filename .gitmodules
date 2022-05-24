@@ -22,12 +22,6 @@
 [submodule "Saber"]
 	path = Saber
 	url = https://gitee.com/smallc/Saber.git
-[submodule "halo"]
-	path = halo
-	url = https://gitee.com/halo-dev/halo.git
-[submodule "halo-admin"]
-	path = halo-admin
-	url = https://gitee.com/halo-dev/halo-admin.git
 [submodule "mall"]
 	path = mall
 	url = https://gitee.com/macrozheng/mall.git
@@ -40,9 +34,6 @@
 [submodule "RuoYi-Vue"]
 	path = RuoYi-Vue
 	url = https://gitee.com/y_project/RuoYi-Vue.git
-[submodule "COLA"]
-	path = COLA
-	url = https://github.com/alibaba/COLA.git
 [submodule "RuoYi-Cloud"]
 	path = RuoYi-Cloud
 	url = https://gitee.com/y_project/RuoYi-Cloud.git
@@ -52,15 +43,12 @@
 [submodule "pig"]
 	path = pig
 	url = https://gitee.com/log4j/pig.git
-[submodule "lamp-util"]
-	path = lamp-util
-	url = https://github.com/zuihou/lamp-util.git
 [submodule "mybatis-plus"]
 	path = mybatis-plus
 	url = https://gitee.com/baomidou/mybatis-plus.git
-[submodule "gmall"]
-	path = gmall
-	url = https://gitee.com/itxinfei/gmall.git
 [submodule "renren-fast"]
 	path = renren-fast
 	url = git@gitee.com:renrenio/renren-fast.git
+[submodule "youlai-mall"]
+	path = youlai-mall
+	url = https://gitee.com/youlaitech/youlai-mall.git
