@@ -52,3 +52,6 @@
 [submodule "ruoyi-vue-pro"]
 	path = ruoyi-vue-pro
 	url = https://gitee.com/zhijiantianya/ruoyi-vue-pro.git
+[submodule "JavaFamily"]
+	path = JavaFamily
+	url = https://github.com/chenjiabing666/JavaFamily.git
