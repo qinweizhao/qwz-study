@@ -7,9 +7,6 @@
 [submodule "ballcat-ui-vue"]
 	path = ballcat-ui-vue
 	url = https://gitee.com/ballcat-projects/ballcat-ui-vue.git
-[submodule "ruoyi-vue-pro"]
-	path = ruoyi-vue-pro
-	url = https://gitee.com/zhijiantianya/ruoyi-vue-pro.git
 [submodule "SpringBlade"]
 	path = SpringBlade
 	url = https://gitee.com/smallc/SpringBlade.git
