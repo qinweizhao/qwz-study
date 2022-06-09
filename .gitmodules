@@ -45,7 +45,10 @@
 	url = https://gitee.com/baomidou/mybatis-plus.git
 [submodule "renren-fast"]
 	path = renren-fast
-	url = git@gitee.com:renrenio/renren-fast.git
+	url = https://gitee.com/renrenio/renren-fast.git
 [submodule "youlai-mall"]
 	path = youlai-mall
 	url = https://gitee.com/youlaitech/youlai-mall.git
+[submodule "ruoyi-vue-pro"]
+	path = ruoyi-vue-pro
+	url = https://gitee.com/zhijiantianya/ruoyi-vue-pro.git

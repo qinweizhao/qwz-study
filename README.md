@@ -1,10 +1,23 @@
 # Study
 
-| 项目            | 前端                                     | 后端            | 依赖           |
-| :-------------: | :--------------------------------------: | :-------------: | :------------: |
-| ballcat         | 【ballcat-ui-vue】、【ballcat-ui-react】 | 【ballcat】     |                |
-| SpringBlade     | 【Saber】、【Sword】                     | 【SpringBlade】 | 【blade-tool】 |
-| ruoyi-vue-pro             |【ruoyi-vue-pro】|【ruoyi-vue-pro】||
-| halo |【halo-admin】|【halo】||
-| mall |【mall-admin-web】|mall||
+1. 克隆仓库
+
+```shell
+git clone https://gitee.com/qinweizhao/qwz-study.git
+```
+
+2. 拉取代码
+
+```shell
+git submodule update --init --recursive
+```
+
+这个命令是下面两条命令的合并版本
+
+```sh
+git submodule init
+git submodule update
+```
+
+
 
