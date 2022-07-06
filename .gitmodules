@@ -55,3 +55,18 @@
 [submodule "JavaFamily"]
 	path = JavaFamily
 	url = https://github.com/chenjiabing666/JavaFamily.git
+[submodule "mall4cloud-uniapp"]
+	path = mall4cloud-uniapp
+	url = https://gitee.com/gz-yami/mall4cloud-uniapp.git
+[submodule "renren-security"]
+	path = renren-security
+	url = https://gitee.com/renrenio/renren-security.git
+[submodule "yudao-cloud"]
+	path = yudao-cloud
+	url = https://gitee.com/zhijiantianya/yudao-cloud.git
+[submodule "halo"]
+	path = halo
+	url = https://github.com/halo-dev/halo.git
+[submodule "youlai-mall-weapp"]
+	path = youlai-mall-weapp
+	url = https://gitee.com/youlaitech/youlai-mall-weapp.git
