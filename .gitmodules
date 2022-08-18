@@ -76,3 +76,6 @@
 [submodule "AIAS"]
 	path = AIAS
 	url = https://gitee.com/mymagicpower/AIAS.git
+[submodule "halo-admin"]
+	path = halo-admin
+	url = https://github.com/halo-dev/halo-admin.git
