@@ -79,3 +79,9 @@
 [submodule "halo-admin"]
 	path = halo-admin
 	url = https://github.com/halo-dev/halo-admin.git
+[submodule "tienchin"]
+	path = tienchin
+	url = https://github.com/lenve/tienchin.git
+[submodule "shardingsphere-elasticjob"]
+	path = shardingsphere-elasticjob
+	url = https://github.com/apache/shardingsphere-elasticjob.git
