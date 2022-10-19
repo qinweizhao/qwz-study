@@ -85,3 +85,12 @@
 [submodule "shardingsphere-elasticjob"]
 	path = shardingsphere-elasticjob
 	url = https://github.com/apache/shardingsphere-elasticjob.git
+[submodule "elastic-job"]
+	path = elastic-job
+	url = https://gitee.com/elasticjob/elastic-job.git
+[submodule "xtoon-cloud"]
+	path = xtoon-cloud
+	url = https://gitee.com/xtoon/xtoon-cloud.git
+[submodule "xtoon-boot"]
+	path = xtoon-boot
+	url = https://gitee.com/xtoon/xtoon-boot.git
