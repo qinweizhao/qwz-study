@@ -94,3 +94,6 @@
 [submodule "xtoon-boot"]
 	path = xtoon-boot
 	url = https://gitee.com/xtoon/xtoon-boot.git
+[submodule "mall-admin"]
+	path = mall-admin
+	url = https://gitee.com/youlaitech/mall-admin.git
