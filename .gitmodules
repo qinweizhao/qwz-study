@@ -64,21 +64,12 @@
 [submodule "yudao-cloud"]
 	path = yudao-cloud
 	url = https://gitee.com/zhijiantianya/yudao-cloud.git
-[submodule "halo"]
-	path = halo
-	url = https://github.com/halo-dev/halo.git
 [submodule "youlai-mall-weapp"]
 	path = youlai-mall-weapp
 	url = https://gitee.com/youlaitech/youlai-mall-weapp.git
 [submodule "mybatis-plus-join"]
 	path = mybatis-plus-join
 	url = https://github.com/yulichang/mybatis-plus-join.git
-[submodule "AIAS"]
-	path = AIAS
-	url = https://gitee.com/mymagicpower/AIAS.git
-[submodule "halo-admin"]
-	path = halo-admin
-	url = https://github.com/halo-dev/halo-admin.git
 [submodule "tienchin"]
 	path = tienchin
 	url = https://github.com/lenve/tienchin.git

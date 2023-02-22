@@ -11,28 +11,7 @@
 
 
     <modules>
-        <!-- ballcat -->
-<!--        <module>ballcat</module>-->
-<!--        <module>gulimall</module>-->
 
-<!--        <module>mall4cloud</module>-->
-<!--        <module>RuoYi-Vue</module>-->
-<!--        <module>pig</module>-->
-        <!-- yudao -->
-<!--        <module>ruoyi-vue-pro</module>-->
-
-        <!-- SpringBlade -->
-<!--        <module>blade-tool</module>-->
-<!--        <module>SpringBlade</module>-->
-
-        <!-- halo <Gradle>-->
-
-
-<!--        <module>RuoYi-Cloud</module>-->
-
-<!--        <module>hutool</module>-->
-<!--        <module>gmall</module>-->
-<!--        <module>youlai-mall</module>-->
     </modules>
 
 
